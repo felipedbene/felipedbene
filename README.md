@@ -22,7 +22,3 @@ I'm Felipe Bene, a passionate Cloud Architect, System Administrator by heart and
 ## Top Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipedbene&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-```
-
-Replace the placeholders with your actual information. Once you've customized your README file, commit the changes. Your profile README will now be displayed on your GitHub profile page.
