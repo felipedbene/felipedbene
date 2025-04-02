@@ -5,11 +5,11 @@ I'm Felipe Bene, a passionate Cloud Architect, System Administrator by heart and
 ## About Me
 
 - 🔭 I’m currently working on Set of scripts to spin up k8s clusters on different virtualization technologies.
-- 🌱 I’m currently learning Kubernetes [details](https://medium.com/@felipedebene/from-concept-to-execution-my-devops-journey-with-harvester-and-salt-85e876353f10)
+- 🌱 I’m currently learning AI [details](https://blog.debene.dev) through non-sense project.
 - 👯 I’m looking to collaborate on Home Labbing projects and general hacking.
 - 🤔 I’m looking for help with Coding
 - 💬 Ask me about Mathmatics, Cloud, Network or CyberSecurity
-- 📫 How to reach me: felipe@debene.xyz
+- 📫 How to reach me: felipe@debene.dev
 - ⚡ Fun fact: I learned BGP by bringing Down 1400+ branches offline with a single command.
 
 ## GitHub Stats
