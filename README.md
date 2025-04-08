@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Felipe Bene, a passionate Cloud Architect, System Administrator by heart and hobbist coder interested in various technologies and always eager to learn more.
+I'm Felipe De Bene, a passionate Cloud Architect, System Administrator by heart and hobbist coder interested in various technologies and always eager to learn more.
 
 ## About Me
 
